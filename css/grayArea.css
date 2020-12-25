@@ -1,0 +1,132 @@
+/* 灰色区域 */
+
+.grayArea {
+    background: #f5f5f5;
+}
+
+.home-flashsale {
+    height: 398px;
+}
+
+.home-flashsale>.box-hd>.controls .iconfont {
+    float: left;
+    width: 36px;
+    height: 16px;
+    border: 1px solid #e0e0e0;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 3px 5px;
+    color: #b0b0b0;
+    text-align: center;
+}
+
+.home-flashsale>.box-hd>.controls {
+    top: 24px;
+}
+
+.home-flashsale>.row>.flashsale-countdown {
+    width: 234px;
+    height: 300px;
+    background: #f1eded;
+    padding-top: 39px;
+    border-top: 1px solid #e53935;
+    text-align: center;
+    float: left;
+    margin-right: 14px;
+}
+
+.home-flashsale>.row>.flashsale-countdown .round {
+    height: 31px;
+    padding-top: 15px;
+    color: #ef3a3b;
+    font-size: 21px;
+}
+
+.home-flashsale>.row>.flashsale-countdown img {
+    margin: 25px 0;
+}
+
+.home-flashsale>.row>.flashsale-countdown .des {
+    color: rgba(0,0,0,.54);
+    font-size: 15px;
+}
+
+.home-flashsale>.row>.flashsale-countdown .countdown {
+    margin: 28px 33px 0;
+}
+
+.home-flashsale>.row>.flashsale-countdown span {
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    width: 46px;
+    color: #fff;
+    font-size: 24px;
+    background: #605751;
+}
+
+.home-flashsale>.row>.flashsale-countdown i{
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    width: 15px;
+    font-size: 28px;
+    color: #605751;
+}
+
+.home-flashsale>.row .brick-item {
+    width: 234px;
+    height: 300px;
+    margin-right: 14px;
+    background: #fff;
+    float: left;
+    padding-top: 39px;
+    text-align: center;
+}
+
+.home-flashsale>.row .brick-item img{
+    width: 160px;
+    height: 160px;
+    margin-bottom: 30px;
+}
+
+.home-flashsale>.row .item-2 {
+    border-top: 1px solid #ffac13;
+}
+.home-flashsale>.row .item-3 {
+    border-top: 1px solid #83c44e;
+}
+.home-flashsale>.row .item-4 {
+    border-top: 1px solid #2196f3;
+}
+.home-flashsale>.row .item-5 {
+    border-top: 1px solid #e53935;
+    margin-right: 0;
+}
+
+.phoneBox .box-hd>.controls .iconfont {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.phone-bm>.brick-left {
+    width: 234px;
+    height: 100%;
+    background: url("../images/phone-left.jpg") center center/cover no-repeat;
+}
+
+.home-bm .top {
+    background: url("../images/home-left1.jpg") center center/cover no-repeat;
+}
+
+.home-bm .bottom {
+    background: url("../images/home-left2.jpg") center center/cover no-repeat;
+}
+
+.ai-bm .top {
+    background: url("../images/ai-left1.jpg") center center/cover no-repeat;
+}
+
+.ai-bm .bottom {
+    background: url("../images/ai-left2.jpg") center center/cover no-repeat;
+}
